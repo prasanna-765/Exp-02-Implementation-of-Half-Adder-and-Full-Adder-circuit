@@ -76,7 +76,8 @@ Full Adder Circuit:
 
 ![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/a7123071-3a24-4afb-9600-fb6bace9e983)
 
-###Result:
+Result:
+
 To design a half adder and full adder circuit and verify its truth table in quartus using verilog programming
 
 
