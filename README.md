@@ -36,19 +36,47 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+Developed by: Prasanna A
+RegisterNumber:  23005675
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+### Half Adder circuit:-
+
+![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/3a8f6d66-3b9a-4005-86be-204ce1e0d40b)
+
+### Full Adder circuit:-
+
+![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/b4837e93-c59e-442b-a993-848894461044)
+
+### Truthtable:-
+Half Adder circuit:
+
+![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/18acde79-0bbe-464d-b170-300fc33692c4)
+
+Full Adder Circuit:
+
+![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/701263e4-bb1e-425a-809c-e089def61dd1)
+
+### RTL realisation:
+Half Adder circuit:
+
+![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/5b503d2b-cb8d-48f5-8228-e0e052716e93)
+
+Full Adder circuit:
+
+![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/4cb4533a-f588-485b-9a83-75d07712dea3)
+
+### Output Waveform $ Timing Diagram
+Half Adder Circuit:
+
+![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/9d5169f9-bb26-47d6-9264-d13e663f4021)
+
+Full Adder Circuit:
+
+![image](https://github.com/prasanna-765/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150009505/a7123071-3a24-4afb-9600-fb6bace9e983)
+
+###Result:
+To design a half adder and full adder circuit and verify its truth table in quartus using verilog programming
 
 
-### TRUTH TABLE 
-
-### Result:
